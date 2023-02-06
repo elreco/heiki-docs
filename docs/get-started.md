@@ -1,7 +1,3 @@
----
-description: Follow the guide step by step
----
-
 # 🚀 Get Started
 
 #### Step 1: Install Node.js

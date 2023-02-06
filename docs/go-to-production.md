@@ -1,7 +1,3 @@
----
-description: Vercel is the best service to host Heiki
----
-
 # 🎉 Go to production
 
 We recommend to use [Vercel](https://vercel.com/) to host your website.\

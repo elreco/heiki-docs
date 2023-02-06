@@ -1,7 +1,3 @@
----
-description: Configure your website
----
-
 # 🔧 Configuration
 
 ### Main configuration
@@ -10,7 +6,7 @@ You can find the file \`config.json\` at the of the project. This is the main co
 
 ```json
 {
-  "isProduction": true, 
+  "isProduction": true,
   "appName": "Heiki",
   "appDescription": "3333 female warriors picked up their weapons to fight for this world.",
   "appUrl": "https://demo.heikinft.com",
@@ -210,7 +206,7 @@ const faqs = [
 ]
 ```
 
-#### Roadmap 
+#### Roadmap
 
 Go to `/components/roadmap.js`\
 ``\
